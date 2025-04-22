@@ -9,3 +9,6 @@ down-stream/sentence_classification/from-scratch/fullset/imdb2-full-gpt2-small/
 down-stream/sentence_classification/from-scratch/fullset/gpt-tokenizer/
 down-stream/sentence_classification/from-scratch/subset/imdb2-small-gpt2-small/
 down-stream/sentence_classification/from-scratch/subset/gpt-tokenizer/
+
+instruction_tuning/logs/
+instruction_tuning/gpt2-vietnamese-medium-instruct-bf16/
